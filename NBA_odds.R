@@ -36,13 +36,9 @@ get_current_prizepicks_projections <- function() {
 current_PP_projections <- get_current_prizepicks_projections()
 
 
+# write the current projections to a CSV file, labeling it based on earliest game start time  
+write.csv(current_PP_projections, file = paste0("PP_projections", current_PP_projections$attributes.start_time[1]), row.names = FALSE)       
 
-
-
-prizepicks_url <- "https://api.prizepicks.com/projections"
-prizepicks_data <- fromJSON(prizepicks_url, flatten = TRUE)
-odds_data <- prizepicks_data$data
-nba_player_data <- prizepicks_data$included
 
 
 
