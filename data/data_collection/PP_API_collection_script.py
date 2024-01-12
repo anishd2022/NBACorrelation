@@ -60,7 +60,7 @@ for data_entry in today_data['data']:
 
 new_df = pd.DataFrame(prop_list)
 csv_name = f"{date}_NBA_Odds"
-folder_path = "/Users/vivekgarg/PycharmProjects/pythonProject2"
+folder_path = "/Users/vivekgarg/PycharmProjects/pythonProject2" #will have to change this to get from the git repo files
 file_name = f"{csv_name}.csv"
 file_path = os.path.join(folder_path, file_name)
 if os.path.exists(file_path):
