@@ -28,7 +28,8 @@ get_current_prizepicks_projections <- function() {
   
   # inner join the two tables by player ID:
   PP_player_odds_data <- inner_join(nba_player_data, odds_data, by = "id") %>%
-    filter(relationships.league.data.id == 7) %>% arrange(attributes.start_time)
+    filter(relationships.league.data.id == 7) %>% arrange(attributes.start_time) %>%
+    select(-c(attributes.combo, attributes.league, attributes.league_id, relationships.league.data.id))
   
   return(PP_player_odds_data)
 }
@@ -38,4 +39,9 @@ current_PP_projections <- get_current_prizepicks_projections()
 
 # write the current projections to a CSV file, labeling it based on earliest game start time  
 write.csv(current_PP_projections, file = paste0("PP_projections", current_PP_projections$attributes.start_time[1]), row.names = FALSE)       
+
+
+
+
+
 
