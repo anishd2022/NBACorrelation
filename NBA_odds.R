@@ -44,16 +44,26 @@ merge_with_master <- function(new_data, master_csv_path) {
   write.csv(merged_data, file = master_csv_path, row.names = FALSE)
 }
 
-# Get current projections
-current_PP_projections <- get_current_prizepicks_projections()
 
 # Specify the path to the master CSV
 master_csv_path <- "All_NBA_Projections.csv"
+
+# Get current projections
+current_PP_projections <- get_current_prizepicks_projections()
 
 # Merge current projections with the master CSV
 merge_with_master(current_PP_projections, master_csv_path)
 
 
+
+
 # run this line once at the beginning
 # write.csv(current_PP_projections, "All_NBA_Projections.csv", row.names = FALSE)
+
+# full file path 
+# /Users/anishdeshpande/projects/PRIZEPICKS/NBACorrelation/NBA_odds.R
+
+# cron script to make this file run once every 10 min
+# */10 * * * * /usr/local/bin/Rscript /Users/anishdeshpande/projects/PRIZEPICKS/NBACorrelation/NBA_odds.R
+print("the script was run")
 
