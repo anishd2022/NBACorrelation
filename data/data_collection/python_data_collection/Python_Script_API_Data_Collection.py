@@ -72,23 +72,31 @@ for data_entry in today_data['data']:
 new_df = pd.DataFrame(prop_list)
 new_df['Player_ID'] = new_df['Player_ID'].astype(int)
 new_df['Line_Score'] = new_df['Line_Score'].astype(float)
-new_df.sort_values(['Start_Time', 'Game_ID', 'Name'], ascending=(True, True, True), inplace=True)
-new_df.head()
+new_df.sort_values(['Start_Time', 'Game_ID', 'Team', 'Name', 'Stat_Type'], ascending=(True, True, True, True, True))
+print(new_df.head())
+print(new_df.columns)
+print(new_df.shape)
 
 # Joining the new data with the old data
 csv_name = f"{date}_NBA_Odds"
-folder_path = "/csv"
+folder_path = '/Users/vivekgarg/PycharmProjects/pythonProject2/csv'
 file_name = f"{csv_name}.csv"
 file_path = os.path.join(folder_path, file_name)
 if os.path.exists(file_path):
     existing_df = pd.read_csv(file_path)
+    print(existing_df.columns)
     merged_df = pd.merge(existing_df,new_df, on=['Player_ID', 'Name', 'Stat_Type', 'Position', 'Opponent', 'Team',
-                                                 'Game_ID', 'Start_Time'], suffixes=('_existing', '_new'), how='outer')
-    merged_df['Line_Score_existing'] = merged_df['Line_Score_new'].combine_first(merged_df['Line_Score_existing'])
-    merged_df = merged_df.drop(['Line_Score_new'], axis=1)
+                                                 'Game_ID', 'Start_Time'], suffixes=('_existing', '_x'), how='outer')
+    print(merged_df.columns)
+    merged_df['Line_Score_existing'] = merged_df['Line_Score'].combine_first(merged_df['Line_Score_existing'])
+    merged_df = merged_df.drop(['Line_Score'], axis=1)
+    merged_df.rename(columns={"Line_Score_Existing": "Line_Score"})
     merged_df.sort_values(['Start_Time', 'Game_ID', 'Name','Stat_Type'], ascending=(True, True, True, True),
                           inplace=True)
     merged_df.head()
+    merged_df.sort_values(['Start_Time', 'Game_ID', 'Team', 'Name', 'Stat_Type'], ascending=(True, True, True, True,
+                                                                                             True), inplace=True)
     merged_df.to_csv(file_path, index=False)
+    print(merged_df.shape)
 else:
     new_df.to_csv(file_path, index=False)
