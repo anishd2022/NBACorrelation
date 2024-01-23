@@ -1,4 +1,4 @@
-Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
+Player_ID,Name,Position,Team,Opponent,Line_Score_existing,Stat_Type,Game_ID,Start_Time
 1683,Brook Lopez,C,MIL,BOS,18.5,Pts+Rebs,dd3e85eb-86e0-4c11-a2cc-b5a2f4e58975,2024-01-11T19:40:00-05:00
 1683,Brook Lopez,C,MIL,BOS,14.0,Pts+Asts,dd3e85eb-86e0-4c11-a2cc-b5a2f4e58975,2024-01-11T19:40:00-05:00
 1683,Brook Lopez,C,MIL,BOS,19.5,Pts+Rebs+Asts,dd3e85eb-86e0-4c11-a2cc-b5a2f4e58975,2024-01-11T19:40:00-05:00
