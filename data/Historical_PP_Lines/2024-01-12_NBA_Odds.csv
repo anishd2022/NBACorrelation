@@ -1,4 +1,4 @@
-Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
+Player_ID,Name,Position,Team,Opponent,Line_Score_existing,Stat_Type,Game_ID,Start_Time
 1596,Clint Capela,C,ATL,IND,0.5,Steals,2fa2202e-0221-474b-a1a4-1a47893798a0,2024-01-12T19:40:00-05:00
 1596,Clint Capela,C,ATL,IND,6.5,Defensive Rebounds,2fa2202e-0221-474b-a1a4-1a47893798a0,2024-01-12T19:40:00-05:00
 1596,Clint Capela,C,ATL,IND,11.5,Rebs+Asts,2fa2202e-0221-474b-a1a4-1a47893798a0,2024-01-12T19:40:00-05:00
