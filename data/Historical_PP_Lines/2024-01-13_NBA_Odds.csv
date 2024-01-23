@@ -1,4 +1,4 @@
-Player_ID,Name,Position,Team,Opponent,Line_Score_existing,Stat_Type,Game_ID,Start_Time
+Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
 184377,Alperen Sengun + Jaylen Brown,C/F,HOU/BOS,BOS/HOU,46.5,Points (Combo),e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:00:00.000-05:00
 184378,Alperen Sengun + Jayson Tatum,C/F,HOU/BOS,BOS/HOU,17.5,Rebounds (Combo),e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:00:00.000-05:00
 184379,Fred VanVleet + Derrick White,G,HOU/BOS,BOS/HOU,12.5,Assists (Combo),e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:00:00.000-05:00
