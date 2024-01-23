@@ -1,9 +1,4 @@
-Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
-184377,Alperen Sengun + Jaylen Brown,C/F,HOU/BOS,BOS/HOU,46.5,Points (Combo),e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:00:00.000-05:00
-184378,Alperen Sengun + Jayson Tatum,C/F,HOU/BOS,BOS/HOU,17.5,Rebounds (Combo),e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:00:00.000-05:00
-184379,Fred VanVleet + Derrick White,G,HOU/BOS,BOS/HOU,12.5,Assists (Combo),e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:00:00.000-05:00
-184380,Fred VanVleet + Jayson Tatum,G/F,HOU/BOS,BOS/HOU,6,3-PT Made (Combo),e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:00:00.000-05:00
-181883,Trae Young + Fred VanVleet,G,ATL/HOU,WAS/BOS,18.5,Assists (Combo),,2024-01-13T19:00:00.000-05:00
+Player_ID,Name,Position,Team,Opponent,Line_Score_existing,Stat_Type,Game_ID,Start_Time
 55716,Alperen Sengun,C,HOU,BOS,4,Free Throws Made,e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:10:00.000-05:00
 55716,Alperen Sengun,C,HOU,BOS,8.5,Rebounds,e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:10:00.000-05:00
 55716,Alperen Sengun,C,HOU,BOS,1.5,Blks+Stls,e40f5e45-535d-48c0-9dfd-fa07d3a143be,2024-01-13T19:10:00.000-05:00
@@ -123,8 +118,6 @@ Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
 53986,Kyle Kuzma,F,WAS,ATL,19.5,FG Attempted,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
 53986,Kyle Kuzma,F,WAS,ATL,0.5,Dunks,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
 53986,Kyle Kuzma,F,WAS,ATL,38.5,Fantasy Score,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
-184381,Kyle Kuzma + Trae Young,F/G,WAS/ATL,ATL/WAS,54,Points (Combo),319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
-184381,Kyle Kuzma + Trae Young,F/G,WAS/ATL,ATL/WAS,5.5,3-PT Made (Combo),319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
 123596,Saddiq Bey,G-F,ATL,WAS,0.5,Dunks,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
 123596,Saddiq Bey,G-F,ATL,WAS,25,Fantasy Score,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
 1521,Trae Young,G,ATL,WAS,0.5,Offensive Rebounds,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
@@ -134,8 +127,6 @@ Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
 1521,Trae Young,G,ATL,WAS,9.5,3-PT Attempted,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
 173611,Tyus Jones,G,WAS,ATL,0.5,Free Throws Made,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
 173611,Tyus Jones,G,WAS,ATL,30,Fantasy Score,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
-184383,Tyus Jones + Trae Young,G,WAS/ATL,ATL/WAS,17.5,Assists (Combo),319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:30:00.000-05:00
-184402,Stephen Curry + Trae Young,G,GSW/ATL,MIL/WAS,8,3-PT Made (Combo),,2024-01-13T19:30:00.000-05:00
 1596,Clint Capela,C,ATL,WAS,10.5,Rebounds,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:40:00.000-05:00
 1596,Clint Capela,C,ATL,WAS,12.5,Points,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:40:00.000-05:00
 1596,Clint Capela,C,ATL,WAS,1.5,Blocked Shots,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:40:00.000-05:00
@@ -201,9 +192,6 @@ Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
 173611,Tyus Jones,G,WAS,ATL,6.5,Assists,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:40:00.000-05:00
 173611,Tyus Jones,G,WAS,ATL,24.5,Pts+Rebs+Asts,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:40:00.000-05:00
 173611,Tyus Jones,G,WAS,ATL,9.5,Rebs+Asts,319af861-a798-43c1-8f3d-ac25edbd36ee,2024-01-13T19:40:00.000-05:00
-184389,Klay Thompson + Damian Lillard,G,GSW/MIL,MIL/GSW,7,3-PT Made (Combo),850775c7-a290-4f3c-8551-11d5d29e19d2,2024-01-13T20:00:00.000-05:00
-176000,Stephen Curry + Damian Lillard,PG,GSW/MIL,MIL/GSW,12.5,Assists (Combo),850775c7-a290-4f3c-8551-11d5d29e19d2,2024-01-13T20:00:00.000-05:00
-184387,Stephen Curry + Giannis Antetokounmpo,G/F,GSW/MIL,MIL/GSW,61.5,Points (Combo),850775c7-a290-4f3c-8551-11d5d29e19d2,2024-01-13T20:00:00.000-05:00
 174284,Donte DiVincenzo,G,NYK,MEM,24.5,Fantasy Score,d72a0607-b6ec-4e06-a352-2515042ae017,2024-01-13T20:00:00.000-05:00
 88510,Isaiah Hartenstein,C-F,NYK,MEM,36.5,Fantasy Score,d72a0607-b6ec-4e06-a352-2515042ae017,2024-01-13T20:00:00.000-05:00
 88510,Isaiah Hartenstein,C-F,NYK,MEM,3.5,Offensive Rebounds,d72a0607-b6ec-4e06-a352-2515042ae017,2024-01-13T20:00:00.000-05:00
@@ -270,8 +258,6 @@ Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
 183158,OG Anunoby,G-F,NYK,MEM,21.5,Pts+Rebs+Asts,d72a0607-b6ec-4e06-a352-2515042ae017,2024-01-13T20:10:00.000-05:00
 183158,OG Anunoby,G-F,NYK,MEM,4.5,Rebounds,d72a0607-b6ec-4e06-a352-2515042ae017,2024-01-13T20:10:00.000-05:00
 183158,OG Anunoby,G-F,NYK,MEM,1.5,Blks+Stls,d72a0607-b6ec-4e06-a352-2515042ae017,2024-01-13T20:10:00.000-05:00
-180557,Coby White + Devin Vassell,G,CHI/SAS,SAS/CHI,6,3-PT Made (Combo),61e66222-bf20-404b-b387-816d0210b5c7,2024-01-13T20:30:00.000-05:00
-184395,DeMar DeRozan + Devin Vassell,G,CHI/SAS,SAS/CHI,44.5,Points (Combo),61e66222-bf20-404b-b387-816d0210b5c7,2024-01-13T20:30:00.000-05:00
 1544,Zach LaVine,G,CHI,SAS,10,Rebs+Asts,61e66222-bf20-404b-b387-816d0210b5c7,2024-01-13T20:40:00-05:00
 1544,Zach LaVine,G,CHI,SAS,5,Rebounds,61e66222-bf20-404b-b387-816d0210b5c7,2024-01-13T20:40:00-05:00
 1544,Zach LaVine,G,CHI,SAS,27,Pts+Rebs,61e66222-bf20-404b-b387-816d0210b5c7,2024-01-13T20:40:00-05:00
