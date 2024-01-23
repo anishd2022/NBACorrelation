@@ -1,4 +1,4 @@
-Player_ID,Name,Position,Team,Opponent,Line_Score,Stat_Type,Game_ID,Start_Time
+Player_ID,Name,Position,Team,Opponent,Line_Score_existing,Stat_Type,Game_ID,Start_Time
 1386,De'Aaron Fox,G,SAC,CHA,45.0,Fantasy Score,7a01b7fe-9e88-4f29-a147-16f9afce2bf6,2024-01-10T19:10:00-05:00
 1386,De'Aaron Fox,G,SAC,CHA,28.0,Points,7a01b7fe-9e88-4f29-a147-16f9afce2bf6,2024-01-10T19:10:00-05:00
 1386,De'Aaron Fox,G,SAC,CHA,0.5,Offensive Rebounds,7a01b7fe-9e88-4f29-a147-16f9afce2bf6,2024-01-10T19:10:00-05:00
