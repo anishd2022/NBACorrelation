@@ -1,0 +1,69 @@
+"timestamp","game_id","line","participant","participant_name","stat_type","game_date"
+"2023-10-20T22:55:20.202131","4622c02f9bd1df188631c86e04036049",5,364,"D'Angelo Russell","player_assists_over_under",2023-10-24
+"2023-10-24T23:15:21.313178","4622c02f9bd1df188631c86e04036049",4,374,"Austin Reaves","player_assists_over_under",2023-10-24
+"2023-10-20T22:20:20.167723","4622c02f9bd1df188631c86e04036049",6.5,383,"Lebron James","player_assists_over_under",2023-10-24
+"2023-10-20T22:05:19.110389","4622c02f9bd1df188631c86e04036049",9.5,388,"Nikola Jokic","player_assists_over_under",2023-10-24
+"2023-10-16T16:25:20.121457","4622c02f9bd1df188631c86e04036049",6.5,391,"Jamal Murray","player_assists_over_under",2023-10-24
+"2023-10-22T22:20:19.801780","4622c02f9bd1df188631c86e04036049",19,364,"D'Angelo Russell","player_assists_points_over_under",2023-10-24
+"2023-10-22T22:20:19.801642","4622c02f9bd1df188631c86e04036049",26.5,367,"Anthony Davis","player_assists_points_over_under",2023-10-24
+"2023-10-24T23:20:20.436162","4622c02f9bd1df188631c86e04036049",19,374,"Austin Reaves","player_assists_points_over_under",2023-10-24
+"2023-10-22T22:20:19.801573","4622c02f9bd1df188631c86e04036049",30.5,383,"Lebron James","player_assists_points_over_under",2023-10-24
+"2023-10-24T17:45:21.054365","4622c02f9bd1df188631c86e04036049",35,388,"Nikola Jokic","player_assists_points_over_under",2023-10-24
+"2023-10-22T22:20:19.801607","4622c02f9bd1df188631c86e04036049",28.5,391,"Jamal Murray","player_assists_points_over_under",2023-10-24
+"2023-10-22T22:20:19.801745","4622c02f9bd1df188631c86e04036049",17,397,"Aaron Gordon","player_assists_points_over_under",2023-10-24
+"2023-10-22T22:20:19.801815","4622c02f9bd1df188631c86e04036049",12.5,401,"Kentavious Caldwell-Pope","player_assists_points_over_under",2023-10-24
+"2023-10-24T16:45:20.271976","4622c02f9bd1df188631c86e04036049",16,409,"Michael Porter Jr.","player_assists_points_over_under",2023-10-24
+"2023-10-23T18:00:19.372399","4622c02f9bd1df188631c86e04036049",21.5,364,"D'Angelo Russell","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-22T23:55:17.578800","4622c02f9bd1df188631c86e04036049",23,374,"Austin Reaves","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-23T13:15:19.381769","4622c02f9bd1df188631c86e04036049",38.5,383,"Lebron James","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-24T21:30:19.030075","4622c02f9bd1df188631c86e04036049",48,388,"Nikola Jokic","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-24T21:40:19.549264","4622c02f9bd1df188631c86e04036049",33.5,391,"Jamal Murray","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-24T23:25:20.353292","4622c02f9bd1df188631c86e04036049",23,397,"Aaron Gordon","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-23T20:25:20.136517","4622c02f9bd1df188631c86e04036049",15,401,"Kentavious Caldwell-Pope","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-24T16:45:20.271947","4622c02f9bd1df188631c86e04036049",21.5,409,"Michael Porter Jr.","player_assists_points_rebounds_over_under",2023-10-24
+"2023-10-22T22:25:18.909751","4622c02f9bd1df188631c86e04036049",7.5,364,"D'Angelo Russell","player_assists_rebounds_over_under",2023-10-24
+"2023-10-22T22:25:18.909561","4622c02f9bd1df188631c86e04036049",14.5,367,"Anthony Davis","player_assists_rebounds_over_under",2023-10-24
+"2023-10-22T22:25:18.909619","4622c02f9bd1df188631c86e04036049",8,374,"Austin Reaves","player_assists_rebounds_over_under",2023-10-24
+"2023-10-22T22:25:18.909444","4622c02f9bd1df188631c86e04036049",14.5,383,"Lebron James","player_assists_rebounds_over_under",2023-10-24
+"2023-10-24T18:40:18.966834","4622c02f9bd1df188631c86e04036049",22,388,"Nikola Jokic","player_assists_rebounds_over_under",2023-10-24
+"2023-10-22T22:25:18.909509","4622c02f9bd1df188631c86e04036049",10.5,391,"Jamal Murray","player_assists_rebounds_over_under",2023-10-24
+"2023-10-22T22:25:18.909679","4622c02f9bd1df188631c86e04036049",9,397,"Aaron Gordon","player_assists_rebounds_over_under",2023-10-24
+"2023-10-22T22:30:18.512590","4622c02f9bd1df188631c86e04036049",1.5,401,"Kentavious Caldwell-Pope","player_blocks_steals_over_under",2023-10-24
+"2023-10-21T22:25:18.278180","4622c02f9bd1df188631c86e04036049",13.5,364,"D'Angelo Russell","player_points_over_under",2023-10-24
+"2023-10-24T21:30:19.030136","4622c02f9bd1df188631c86e04036049",23.5,367,"Anthony Davis","player_points_over_under",2023-10-24
+"2023-10-22T21:20:19.169304","4622c02f9bd1df188631c86e04036049",9.5,373,"Rui Hachimura","player_points_over_under",2023-10-24
+"2023-10-24T22:20:21.334120","4622c02f9bd1df188631c86e04036049",15,374,"Austin Reaves","player_points_over_under",2023-10-24
+"2023-10-20T22:15:19.898749","4622c02f9bd1df188631c86e04036049",23.5,383,"Lebron James","player_points_over_under",2023-10-24
+"2023-10-24T17:45:21.054303","4622c02f9bd1df188631c86e04036049",26,388,"Nikola Jokic","player_points_over_under",2023-10-24
+"2023-10-23T17:20:20.047564","4622c02f9bd1df188631c86e04036049",22.5,391,"Jamal Murray","player_points_over_under",2023-10-24
+"2023-10-24T21:30:19.030294","4622c02f9bd1df188631c86e04036049",14,397,"Aaron Gordon","player_points_over_under",2023-10-24
+"2023-10-23T17:25:18.556784","4622c02f9bd1df188631c86e04036049",10.5,401,"Kentavious Caldwell-Pope","player_points_over_under",2023-10-24
+"2023-10-24T20:55:20.033699","4622c02f9bd1df188631c86e04036049",5.5,406,"Christian Braun","player_points_over_under",2023-10-24
+"2023-10-24T21:30:19.030355","4622c02f9bd1df188631c86e04036049",6,464,"Gabe Vincent","player_points_over_under",2023-10-24
+"2023-10-24T21:35:18.921989","4622c02f9bd1df188631c86e04036049",7.5,16511,"Christian Wood","player_points_over_under",2023-10-24
+"2023-10-24T18:00:20.406293","4622c02f9bd1df188631c86e04036049",7.5,16830,"Taurean Prince","player_points_over_under",2023-10-24
+"2023-10-22T22:15:17.993275","4622c02f9bd1df188631c86e04036049",16.5,364,"D'Angelo Russell","player_points_rebounds_over_under",2023-10-24
+"2023-10-22T22:10:19.040272","4622c02f9bd1df188631c86e04036049",36.5,367,"Anthony Davis","player_points_rebounds_over_under",2023-10-24
+"2023-10-22T22:10:19.040462","4622c02f9bd1df188631c86e04036049",13.5,373,"Rui Hachimura","player_points_rebounds_over_under",2023-10-24
+"2023-10-22T22:10:19.040334","4622c02f9bd1df188631c86e04036049",18.5,374,"Austin Reaves","player_points_rebounds_over_under",2023-10-24
+"2023-10-22T22:10:19.040210","4622c02f9bd1df188631c86e04036049",31.5,383,"Lebron James","player_points_rebounds_over_under",2023-10-24
+"2023-10-24T17:45:21.054395","4622c02f9bd1df188631c86e04036049",38.5,388,"Nikola Jokic","player_points_rebounds_over_under",2023-10-24
+"2023-10-24T22:55:20.688845","4622c02f9bd1df188631c86e04036049",27,391,"Jamal Murray","player_points_rebounds_over_under",2023-10-24
+"2023-10-22T22:10:19.040366","4622c02f9bd1df188631c86e04036049",20.5,397,"Aaron Gordon","player_points_rebounds_over_under",2023-10-24
+"2023-10-22T22:10:19.040430","4622c02f9bd1df188631c86e04036049",13.5,401,"Kentavious Caldwell-Pope","player_points_rebounds_over_under",2023-10-24
+"2023-10-24T16:45:20.271918","4622c02f9bd1df188631c86e04036049",20,409,"Michael Porter Jr.","player_points_rebounds_over_under",2023-10-24
+"2023-10-24T23:30:20.132094","4622c02f9bd1df188631c86e04036049",10,16830,"Taurean Prince","player_points_rebounds_over_under",2023-10-24
+"2023-10-24T03:25:15.237409","4622c02f9bd1df188631c86e04036049",2.5,364,"D'Angelo Russell","player_rebounds_over_under",2023-10-24
+"2023-10-22T21:20:19.169202","4622c02f9bd1df188631c86e04036049",4,373,"Rui Hachimura","player_rebounds_over_under",2023-10-24
+"2023-10-16T16:25:20.121343","4622c02f9bd1df188631c86e04036049",7.5,383,"Lebron James","player_rebounds_over_under",2023-10-24
+"2023-10-20T15:25:30.474535","4622c02f9bd1df188631c86e04036049",12.5,388,"Nikola Jokic","player_rebounds_over_under",2023-10-24
+"2023-10-22T21:40:19.213054","4622c02f9bd1df188631c86e04036049",4,391,"Jamal Murray","player_rebounds_over_under",2023-10-24
+"2023-10-16T16:25:20.122243","4622c02f9bd1df188631c86e04036049",6,397,"Aaron Gordon","player_rebounds_over_under",2023-10-24
+"2023-10-16T16:25:20.122668","4622c02f9bd1df188631c86e04036049",2.5,401,"Kentavious Caldwell-Pope","player_rebounds_over_under",2023-10-24
+"2023-10-16T16:25:20.121905","4622c02f9bd1df188631c86e04036049",5.5,409,"Michael Porter Jr.","player_rebounds_over_under",2023-10-24
+"2023-10-24T20:55:20.033646","4622c02f9bd1df188631c86e04036049",4.5,16511,"Christian Wood","player_rebounds_over_under",2023-10-24
+"2023-10-20T19:55:18.666468","4622c02f9bd1df188631c86e04036049",2.5,409,"Michael Porter Jr.","player_threes_over_under",2023-10-24
+"2023-10-22T22:35:19.111402","4622c02f9bd1df188631c86e04036049",1.5,364,"D'Angelo Russell","player_turnovers_over_under",2023-10-24
+"2023-10-22T22:35:19.111434","4622c02f9bd1df188631c86e04036049",0.5,373,"Rui Hachimura","player_turnovers_over_under",2023-10-24
+"2023-10-22T22:35:19.111370","4622c02f9bd1df188631c86e04036049",1.5,374,"Austin Reaves","player_turnovers_over_under",2023-10-24
+"2023-10-22T22:35:19.111338","4622c02f9bd1df188631c86e04036049",2.5,383,"Lebron James","player_turnovers_over_under",2023-10-24

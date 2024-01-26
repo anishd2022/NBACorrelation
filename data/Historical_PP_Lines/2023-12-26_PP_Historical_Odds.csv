@@ -1,0 +1,150 @@
+"timestamp","game_id","line","participant","participant_name","stat_type","game_date"
+"2023-12-24T21:40:02.395223","34f0ddb6eaa4775a7dadad0ad049ebfc",5.5,398,"Jimmy Butler","player_assists_over_under",2023-12-26
+"2023-12-24T21:40:02.395583","34f0ddb6eaa4775a7dadad0ad049ebfc",3.5,763,"Kyle Lowry","player_assists_over_under",2023-12-26
+"2023-12-24T21:40:02.395777","34f0ddb6eaa4775a7dadad0ad049ebfc",7.5,837,"Tyrese Maxey","player_assists_over_under",2023-12-26
+"2023-12-24T21:40:02.395472","34f0ddb6eaa4775a7dadad0ad049ebfc",5.5,917,"Joel Embiid","player_assists_over_under",2023-12-26
+"2023-12-25T14:35:02.109480","34f0ddb6eaa4775a7dadad0ad049ebfc",3.5,940,"De'Anthony Melton","player_assists_over_under",2023-12-26
+"2023-12-25T19:30:17.745775","34f0ddb6eaa4775a7dadad0ad049ebfc",27.5,393,"Bam Adebayo","player_assists_points_over_under",2023-12-26
+"2023-12-24T22:25:14.107770","34f0ddb6eaa4775a7dadad0ad049ebfc",26.5,398,"Jimmy Butler","player_assists_points_over_under",2023-12-26
+"2023-12-25T19:50:15.208003","34f0ddb6eaa4775a7dadad0ad049ebfc",12.5,463,"Kevin Love","player_assists_points_over_under",2023-12-26
+"2023-12-25T19:45:15.213441","34f0ddb6eaa4775a7dadad0ad049ebfc",14.5,761,"Duncan Robinson","player_assists_points_over_under",2023-12-26
+"2023-12-25T19:30:17.745976","34f0ddb6eaa4775a7dadad0ad049ebfc",14.5,762,"Caleb Martin","player_assists_points_over_under",2023-12-26
+"2023-12-25T19:35:15.050781","34f0ddb6eaa4775a7dadad0ad049ebfc",13.5,763,"Kyle Lowry","player_assists_points_over_under",2023-12-26
+"2023-12-25T05:20:13.362080","34f0ddb6eaa4775a7dadad0ad049ebfc",21.5,835,"Tobias Harris","player_assists_points_over_under",2023-12-26
+"2023-12-25T22:30:16.413862","34f0ddb6eaa4775a7dadad0ad049ebfc",38.5,837,"Tyrese Maxey","player_assists_points_over_under",2023-12-26
+"2023-12-24T19:05:13.033759","34f0ddb6eaa4775a7dadad0ad049ebfc",38.5,917,"Joel Embiid","player_assists_points_over_under",2023-12-26
+"2023-12-25T05:20:13.362273","34f0ddb6eaa4775a7dadad0ad049ebfc",15.5,940,"De'Anthony Melton","player_assists_points_over_under",2023-12-26
+"2023-12-25T19:30:17.745876","34f0ddb6eaa4775a7dadad0ad049ebfc",28.5,1393,"Tyler Herro","player_assists_points_over_under",2023-12-26
+"2023-12-25T05:20:13.362209","34f0ddb6eaa4775a7dadad0ad049ebfc",16.5,17223,"Kelly Oubre Jr.","player_assists_points_over_under",2023-12-26
+"2023-12-25T19:40:18.337718","34f0ddb6eaa4775a7dadad0ad049ebfc",18.5,17418,"Jaime Jaquez Jr.","player_assists_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395348","34f0ddb6eaa4775a7dadad0ad049ebfc",36.5,393,"Bam Adebayo","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395268","34f0ddb6eaa4775a7dadad0ad049ebfc",32.5,398,"Jimmy Butler","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395177","34f0ddb6eaa4775a7dadad0ad049ebfc",15.5,762,"Caleb Martin","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395652","34f0ddb6eaa4775a7dadad0ad049ebfc",13.5,763,"Kyle Lowry","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109660","34f0ddb6eaa4775a7dadad0ad049ebfc",27.5,835,"Tobias Harris","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395822","34f0ddb6eaa4775a7dadad0ad049ebfc",35.5,837,"Tyrese Maxey","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395539","34f0ddb6eaa4775a7dadad0ad049ebfc",50.5,917,"Joel Embiid","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109535","34f0ddb6eaa4775a7dadad0ad049ebfc",19.5,940,"De'Anthony Melton","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395427","34f0ddb6eaa4775a7dadad0ad049ebfc",31.5,1393,"Tyler Herro","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109801","34f0ddb6eaa4775a7dadad0ad049ebfc",20.5,17223,"Kelly Oubre Jr.","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T22:25:14.498988","34f0ddb6eaa4775a7dadad0ad049ebfc",15,393,"Bam Adebayo","player_assists_rebounds_over_under",2023-12-26
+"2023-12-24T22:25:14.107716","34f0ddb6eaa4775a7dadad0ad049ebfc",10.5,398,"Jimmy Butler","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T19:50:15.208097","34f0ddb6eaa4775a7dadad0ad049ebfc",9,463,"Kevin Love","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T05:20:13.362113","34f0ddb6eaa4775a7dadad0ad049ebfc",9.5,835,"Tobias Harris","player_assists_rebounds_over_under",2023-12-26
+"2023-12-24T03:05:09.811431","34f0ddb6eaa4775a7dadad0ad049ebfc",10.5,837,"Tyrese Maxey","player_assists_rebounds_over_under",2023-12-26
+"2023-12-24T03:05:09.811238","34f0ddb6eaa4775a7dadad0ad049ebfc",17.5,917,"Joel Embiid","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T05:20:13.362305","34f0ddb6eaa4775a7dadad0ad049ebfc",7.5,940,"De'Anthony Melton","player_assists_rebounds_over_under",2023-12-26
+"2023-12-26T01:05:14.234914","34f0ddb6eaa4775a7dadad0ad049ebfc",10,1393,"Tyler Herro","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T19:40:18.337749","34f0ddb6eaa4775a7dadad0ad049ebfc",7.5,17418,"Jaime Jaquez Jr.","player_assists_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395494","34f0ddb6eaa4775a7dadad0ad049ebfc",1.5,917,"Joel Embiid","player_blocks_over_under",2023-12-26
+"2023-12-24T22:25:14.107665","34f0ddb6eaa4775a7dadad0ad049ebfc",1.5,398,"Jimmy Butler","player_blocks_steals_over_under",2023-12-26
+"2023-12-25T19:50:15.208128","34f0ddb6eaa4775a7dadad0ad049ebfc",0.5,463,"Kevin Love","player_blocks_steals_over_under",2023-12-26
+"2023-12-25T04:55:13.083347","34f0ddb6eaa4775a7dadad0ad049ebfc",1.5,835,"Tobias Harris","player_blocks_steals_over_under",2023-12-26
+"2023-12-24T03:05:09.810899","34f0ddb6eaa4775a7dadad0ad049ebfc",2.5,917,"Joel Embiid","player_blocks_steals_over_under",2023-12-26
+"2023-12-24T21:40:02.395325","34f0ddb6eaa4775a7dadad0ad049ebfc",21.5,393,"Bam Adebayo","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395245","34f0ddb6eaa4775a7dadad0ad049ebfc",20.5,398,"Jimmy Butler","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395155","34f0ddb6eaa4775a7dadad0ad049ebfc",9.5,762,"Caleb Martin","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395629","34f0ddb6eaa4775a7dadad0ad049ebfc",6.5,763,"Kyle Lowry","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.109621","34f0ddb6eaa4775a7dadad0ad049ebfc",19.5,835,"Tobias Harris","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395800","34f0ddb6eaa4775a7dadad0ad049ebfc",25.5,837,"Tyrese Maxey","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395517","34f0ddb6eaa4775a7dadad0ad049ebfc",33.5,917,"Joel Embiid","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.109508","34f0ddb6eaa4775a7dadad0ad049ebfc",12.5,940,"De'Anthony Melton","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395404","34f0ddb6eaa4775a7dadad0ad049ebfc",24.5,1393,"Tyler Herro","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.109751","34f0ddb6eaa4775a7dadad0ad049ebfc",14.5,17223,"Kelly Oubre Jr.","player_points_over_under",2023-12-26
+"2023-12-24T22:35:15.040228","34f0ddb6eaa4775a7dadad0ad049ebfc",33.5,393,"Bam Adebayo","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T13:25:15.300331","34f0ddb6eaa4775a7dadad0ad049ebfc",26.5,398,"Jimmy Butler","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T19:50:15.208160","34f0ddb6eaa4775a7dadad0ad049ebfc",16.5,463,"Kevin Love","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T20:20:18.875598","34f0ddb6eaa4775a7dadad0ad049ebfc",14,761,"Duncan Robinson","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T19:30:17.746076","34f0ddb6eaa4775a7dadad0ad049ebfc",17.5,762,"Caleb Martin","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T05:15:17.017963","34f0ddb6eaa4775a7dadad0ad049ebfc",25.5,835,"Tobias Harris","player_points_rebounds_over_under",2023-12-26
+"2023-12-24T23:10:14.478105","34f0ddb6eaa4775a7dadad0ad049ebfc",34.5,837,"Tyrese Maxey","player_points_rebounds_over_under",2023-12-26
+"2023-12-24T03:05:09.811139","34f0ddb6eaa4775a7dadad0ad049ebfc",44.5,917,"Joel Embiid","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T05:15:17.018197","34f0ddb6eaa4775a7dadad0ad049ebfc",16.5,940,"De'Anthony Melton","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T19:30:17.745943","34f0ddb6eaa4775a7dadad0ad049ebfc",29,1393,"Tyler Herro","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T05:15:17.018063","34f0ddb6eaa4775a7dadad0ad049ebfc",20.5,17223,"Kelly Oubre Jr.","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T19:40:18.337781","34f0ddb6eaa4775a7dadad0ad049ebfc",20.5,17418,"Jaime Jaquez Jr.","player_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395291","34f0ddb6eaa4775a7dadad0ad049ebfc",9.5,393,"Bam Adebayo","player_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395110","34f0ddb6eaa4775a7dadad0ad049ebfc",4.5,762,"Caleb Martin","player_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109564","34f0ddb6eaa4775a7dadad0ad049ebfc",6.5,835,"Tobias Harris","player_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395450","34f0ddb6eaa4775a7dadad0ad049ebfc",11.5,917,"Joel Embiid","player_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395370","34f0ddb6eaa4775a7dadad0ad049ebfc",4.5,1393,"Tyler Herro","player_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109704","34f0ddb6eaa4775a7dadad0ad049ebfc",4.5,17223,"Kelly Oubre Jr.","player_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395133","34f0ddb6eaa4775a7dadad0ad049ebfc",0.5,762,"Caleb Martin","player_steals_over_under",2023-12-26
+"2023-12-24T21:40:02.395606","34f0ddb6eaa4775a7dadad0ad049ebfc",0.5,763,"Kyle Lowry","player_steals_over_under",2023-12-26
+"2023-12-24T21:40:02.395200","34f0ddb6eaa4775a7dadad0ad049ebfc",0.5,398,"Jimmy Butler","player_threes_over_under",2023-12-26
+"2023-12-24T21:40:02.395561","34f0ddb6eaa4775a7dadad0ad049ebfc",1.5,763,"Kyle Lowry","player_threes_over_under",2023-12-26
+"2023-12-25T14:35:02.109592","34f0ddb6eaa4775a7dadad0ad049ebfc",1.5,835,"Tobias Harris","player_threes_over_under",2023-12-26
+"2023-12-24T21:40:02.395753","34f0ddb6eaa4775a7dadad0ad049ebfc",3.5,837,"Tyrese Maxey","player_threes_over_under",2023-12-26
+"2023-12-25T14:35:02.109453","34f0ddb6eaa4775a7dadad0ad049ebfc",2.5,940,"De'Anthony Melton","player_threes_over_under",2023-12-26
+"2023-12-24T22:35:15.040262","34f0ddb6eaa4775a7dadad0ad049ebfc",2.5,393,"Bam Adebayo","player_turnovers_over_under",2023-12-26
+"2023-12-24T22:25:14.107613","34f0ddb6eaa4775a7dadad0ad049ebfc",1.5,398,"Jimmy Butler","player_turnovers_over_under",2023-12-26
+"2023-12-24T21:40:02.394705","c6f7c94f3e967517675840bd4c60a28f",5.5,377,"Kevin Durant","player_assists_over_under",2023-12-26
+"2023-12-25T14:35:02.108609","c6f7c94f3e967517675840bd4c60a28f",1.5,1200,"Grant Williams","player_assists_over_under",2023-12-26
+"2023-12-25T14:35:02.109087","c6f7c94f3e967517675840bd4c60a28f",1.5,17105,"Drew Eubanks","player_assists_over_under",2023-12-26
+"2023-12-25T14:35:02.109235","c6f7c94f3e967517675840bd4c60a28f",3.5,18750,"Dante Exum","player_assists_over_under",2023-12-26
+"2023-12-24T22:40:13.688122","c6f7c94f3e967517675840bd4c60a28f",36.5,377,"Kevin Durant","player_assists_points_over_under",2023-12-26
+"2023-12-24T22:50:14.397929","c6f7c94f3e967517675840bd4c60a28f",39.5,386,"Devin Booker","player_assists_points_over_under",2023-12-26
+"2023-12-25T06:05:14.951154","c6f7c94f3e967517675840bd4c60a28f",14.5,17097,"Grayson Allen","player_assists_points_over_under",2023-12-26
+"2023-12-26T03:15:15.601202","c6f7c94f3e967517675840bd4c60a28f",15,17106,"Eric Gordon","player_assists_points_over_under",2023-12-26
+"2023-12-24T23:55:13.143911","c6f7c94f3e967517675840bd4c60a28f",47.5,17124,"Luka Doncic","player_assists_points_over_under",2023-12-26
+"2023-12-25T06:05:14.951389","c6f7c94f3e967517675840bd4c60a28f",11.5,17206,"Derrick Jones Jr.","player_assists_points_over_under",2023-12-26
+"2023-12-25T06:05:14.951188","c6f7c94f3e967517675840bd4c60a28f",16.5,18750,"Dante Exum","player_assists_points_over_under",2023-12-26
+"2023-12-24T21:40:02.394752","c6f7c94f3e967517675840bd4c60a28f",45.5,377,"Kevin Durant","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.395064","c6f7c94f3e967517675840bd4c60a28f",45.5,386,"Devin Booker","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.108693","c6f7c94f3e967517675840bd4c60a28f",15.5,1200,"Grant Williams","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.394972","c6f7c94f3e967517675840bd4c60a28f",19.5,17097,"Grayson Allen","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109147","c6f7c94f3e967517675840bd4c60a28f",17.5,17105,"Drew Eubanks","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.394851","c6f7c94f3e967517675840bd4c60a28f",56.5,17124,"Luka Doncic","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.108894","c6f7c94f3e967517675840bd4c60a28f",23.5,17129,"Tim Hardaway Jr.","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109424","c6f7c94f3e967517675840bd4c60a28f",17.5,17182,"Dereck Lively Ii","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.108979","c6f7c94f3e967517675840bd4c60a28f",15.5,17206,"Derrick Jones Jr.","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109306","c6f7c94f3e967517675840bd4c60a28f",21.5,18750,"Dante Exum","player_assists_points_rebounds_over_under",2023-12-26
+"2023-12-25T13:15:15.534152","c6f7c94f3e967517675840bd4c60a28f",13.5,377,"Kevin Durant","player_assists_rebounds_over_under",2023-12-26
+"2023-12-24T22:50:14.397962","c6f7c94f3e967517675840bd4c60a28f",14.5,386,"Devin Booker","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T19:10:17.192879","c6f7c94f3e967517675840bd4c60a28f",9,17105,"Drew Eubanks","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T19:15:17.463905","c6f7c94f3e967517675840bd4c60a28f",20,17124,"Luka Doncic","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T14:55:15.131752","c6f7c94f3e967517675840bd4c60a28f",8,18750,"Dante Exum","player_assists_rebounds_over_under",2023-12-26
+"2023-12-25T19:10:23.520386","c6f7c94f3e967517675840bd4c60a28f",0.5,17206,"Derrick Jones Jr.","player_blocks_over_under",2023-12-26
+"2023-12-25T05:50:14.066965","c6f7c94f3e967517675840bd4c60a28f",1.5,17097,"Grayson Allen","player_blocks_steals_over_under",2023-12-26
+"2023-12-25T05:50:14.067127","c6f7c94f3e967517675840bd4c60a28f",1.5,17105,"Drew Eubanks","player_blocks_steals_over_under",2023-12-26
+"2023-12-25T05:50:14.067071","c6f7c94f3e967517675840bd4c60a28f",1.5,17206,"Derrick Jones Jr.","player_blocks_steals_over_under",2023-12-26
+"2023-12-24T21:40:02.394729","c6f7c94f3e967517675840bd4c60a28f",31.5,377,"Kevin Durant","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395041","c6f7c94f3e967517675840bd4c60a28f",31.5,386,"Devin Booker","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.108665","c6f7c94f3e967517675840bd4c60a28f",9.5,1200,"Grant Williams","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.394950","c6f7c94f3e967517675840bd4c60a28f",12.5,17097,"Grayson Allen","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.395087","c6f7c94f3e967517675840bd4c60a28f",9.5,17105,"Drew Eubanks","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.394873","c6f7c94f3e967517675840bd4c60a28f",12.5,17106,"Eric Gordon","player_points_over_under",2023-12-26
+"2023-12-24T21:40:02.394828","c6f7c94f3e967517675840bd4c60a28f",34.5,17124,"Luka Doncic","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.108865","c6f7c94f3e967517675840bd4c60a28f",19.5,17129,"Tim Hardaway Jr.","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.109396","c6f7c94f3e967517675840bd4c60a28f",9.5,17182,"Dereck Lively Ii","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.108950","c6f7c94f3e967517675840bd4c60a28f",10.5,17206,"Derrick Jones Jr.","player_points_over_under",2023-12-26
+"2023-12-25T14:35:02.109277","c6f7c94f3e967517675840bd4c60a28f",13.5,18750,"Dante Exum","player_points_over_under",2023-12-26
+"2023-12-26T03:15:15.601014","c6f7c94f3e967517675840bd4c60a28f",39,377,"Kevin Durant","player_points_rebounds_over_under",2023-12-26
+"2023-12-24T23:40:13.102326","c6f7c94f3e967517675840bd4c60a28f",36.5,386,"Devin Booker","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T06:05:14.951120","c6f7c94f3e967517675840bd4c60a28f",16.5,17097,"Grayson Allen","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T19:30:17.745364","c6f7c94f3e967517675840bd4c60a28f",16,17105,"Drew Eubanks","player_points_rebounds_over_under",2023-12-26
+"2023-12-26T03:30:14.483353","c6f7c94f3e967517675840bd4c60a28f",14.5,17106,"Eric Gordon","player_points_rebounds_over_under",2023-12-26
+"2023-12-24T23:55:13.144177","c6f7c94f3e967517675840bd4c60a28f",46.5,17124,"Luka Doncic","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T06:05:14.951356","c6f7c94f3e967517675840bd4c60a28f",14.5,17206,"Derrick Jones Jr.","player_points_rebounds_over_under",2023-12-26
+"2023-12-25T19:40:18.337686","c6f7c94f3e967517675840bd4c60a28f",17.5,18750,"Dante Exum","player_points_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.394683","c6f7c94f3e967517675840bd4c60a28f",8.5,377,"Kevin Durant","player_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.394995","c6f7c94f3e967517675840bd4c60a28f",6.5,386,"Devin Booker","player_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.394904","c6f7c94f3e967517675840bd4c60a28f",4.5,17097,"Grayson Allen","player_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109034","c6f7c94f3e967517675840bd4c60a28f",7.5,17105,"Drew Eubanks","player_rebounds_over_under",2023-12-26
+"2023-12-24T21:40:02.394774","c6f7c94f3e967517675840bd4c60a28f",10.5,17124,"Luka Doncic","player_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.108723","c6f7c94f3e967517675840bd4c60a28f",3.5,17129,"Tim Hardaway Jr.","player_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109334","c6f7c94f3e967517675840bd4c60a28f",7.5,17182,"Dereck Lively Ii","player_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.109202","c6f7c94f3e967517675840bd4c60a28f",4.5,18750,"Dante Exum","player_rebounds_over_under",2023-12-26
+"2023-12-25T14:35:02.108637","c6f7c94f3e967517675840bd4c60a28f",0.5,1200,"Grant Williams","player_steals_over_under",2023-12-26
+"2023-12-25T14:35:02.108835","c6f7c94f3e967517675840bd4c60a28f",0.5,17129,"Tim Hardaway Jr.","player_steals_over_under",2023-12-26
+"2023-12-25T14:35:02.109367","c6f7c94f3e967517675840bd4c60a28f",0.5,17182,"Dereck Lively Ii","player_steals_over_under",2023-12-26
+"2023-12-24T21:40:02.395018","c6f7c94f3e967517675840bd4c60a28f",2.5,386,"Devin Booker","player_threes_over_under",2023-12-26
+"2023-12-24T21:40:02.394927","c6f7c94f3e967517675840bd4c60a28f",2.5,17097,"Grayson Allen","player_threes_over_under",2023-12-26
+"2023-12-24T21:40:02.394797","c6f7c94f3e967517675840bd4c60a28f",3.5,17124,"Luka Doncic","player_threes_over_under",2023-12-26
+"2023-12-25T14:35:02.108782","c6f7c94f3e967517675840bd4c60a28f",3.5,17129,"Tim Hardaway Jr.","player_threes_over_under",2023-12-26
+"2023-12-25T14:35:02.108922","c6f7c94f3e967517675840bd4c60a28f",1.5,17206,"Derrick Jones Jr.","player_threes_over_under",2023-12-26
+"2023-12-24T19:45:20.849598","c6f7c94f3e967517675840bd4c60a28f",3,377,"Kevin Durant","player_turnovers_over_under",2023-12-26
+"2023-12-24T19:50:20.174306","c6f7c94f3e967517675840bd4c60a28f",3,386,"Devin Booker","player_turnovers_over_under",2023-12-26
+"2023-12-24T23:55:18.664908","c6f7c94f3e967517675840bd4c60a28f",0.5,1200,"Grant Williams","player_turnovers_over_under",2023-12-26
+"2023-12-24T19:35:18.916786","c6f7c94f3e967517675840bd4c60a28f",4,17124,"Luka Doncic","player_turnovers_over_under",2023-12-26
+"2023-12-24T23:50:22.143993","c6f7c94f3e967517675840bd4c60a28f",1.5,18750,"Dante Exum","player_turnovers_over_under",2023-12-26
