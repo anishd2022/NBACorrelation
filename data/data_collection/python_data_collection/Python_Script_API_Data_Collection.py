@@ -79,7 +79,7 @@ print(new_df.shape)
 
 # Joining the new data with the old data
 csv_name = f"{date}_NBA_Odds"
-folder_path = '/Users/vivekgarg/PycharmProjects/pythonProject2/csv/Cleaned'
+folder_path = #put a path here 
 file_name = f"{csv_name}.csv"
 file_path = os.path.join(folder_path, file_name)
 if os.path.exists(file_path):
