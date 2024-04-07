@@ -90,14 +90,14 @@ if os.path.exists(file_path):
     print(merged_df.columns)
     merged_df['Line_Score_existing'] = merged_df['Line_Score_x'].combine_first(merged_df['Line_Score_existing'])
     merged_df = merged_df.drop(['Line_Score_x'], axis=1)
-    merged_df = merged_df.rename(columns={'Line_Score_existing': 'Line_Score'})
+    merged_df.rename(columns={'Line_Score_existing': 'Line_Score'})
     merged_df.sort_values(['Start_Time', 'Game_ID', 'Name','Stat_Type'], ascending=(True, True, True, True),
                           inplace=True)
-    merged_df.head()
+    print(merged_df)
     merged_df.sort_values(['Start_Time', 'Game_ID', 'Team', 'Name', 'Stat_Type'], ascending=(True, True, True, True,
                                                                                              True), inplace=True)
     merged_df = merged_df.drop_duplicates(
-        subset=['Player_ID', 'Name', 'Stat_Type', 'Position', 'Opponent', 'Team', 'Game_ID', 'Start_Time'])
+        subset=['Player_ID', 'Name', 'Stat_Type', 'Position', 'Opponent', 'Team', 'Game_ID'])
 
     merged_df.to_csv(file_path, index=False)
     print(merged_df.shape)
